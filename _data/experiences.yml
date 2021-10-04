@@ -1,27 +1,30 @@
 - experience:
-  role: SR iOS Developer
+  role: Sr. iOS Developer
   time: Abril 2021 - Present
   company: Globant, México
-  details: ""
+  details: "Trabajando para AutoDesk y su aplicación Plangrid con las siguientes responsabilidades:
+  * Desarrollo de componentes de UI con UIKit
+  * Solución de incidencias y mantenimiento de aplicación bajo arquitectura FLUX
+  * Implementación de componentes de UI mediantes UIKit y SwiftUI
+  * Desarrollo de aplicación Alloy Components con MVVM y Combine, la cual se usa para probar los componentes de UI
+  "
 - experience:
-  role: iOS Developer Semi Sr.
+  role: Semi Sr. iOS Developer
   time: Abril 2018 - Abril 2021
   company: Globant, México
-  details: "I developed new modules for the app Transfer v3 TELCEL and refactoring the code"
+  details: "Trabajando para Citibanamex en su aplicación móvil, creando las siguientes funcionalidades:
+  * Dashboard - Se refactorizó el corazón de la aplicación a arquitectura VIPER y se añadieron pruebas unitarias.
+  * Detalle de Cuenta - Se refactorizó a VIPER y se agregó la funcionalidad más importante para el banco (Transacciones en tiempo real).
+  * Implementación Insights SDK - Se integró un framework para analisis de gastos, el cual fue coordinado con el proveedor en Israel y Estados Unidos.
+  * Pagos Diferidos - Se implementó desde cero bajó la arquitectura VIPER, siendo esta la funcionalidad más rentable para el banco, al tener una proyección de 25 millones de USD al año.
+  "
 - experience:
-  role: SR iOS Developer
-  time: March 2018 - April 2018
-  company: Globant, CDMX
-  details: "I developed new screens for HSBC Mexico financial advisor and add the spanish language"
-- experience:
-  role: iOS Developer
-  time: 2016 - March 2018
-  company: Grupo Salinas, CDMX
-  details: "Building and publishing iOS applications with MDM apple server.
-  I developed Wrapper financial advisor and Banco Empresarial Azteca (BEA) apps."
-- experience:
-  role: iOS Developer
-  time: 2014 - 2015
-  company: Infoexpo, Celaya,Gto
-  details: "Desing, development and research iOS applications.
-  I developed ExpoLeads app and publishing in appstore in 2015(today not available in appstore)"
+  role: Jr. iOS Developer
+  time: Enero 2018 - Marzo 2018
+  company: Grupo Salinas, Ciudad de México
+  details: "
+  * Mantenimiento y solución de bugs en aplicación AcertumBank para iPad
+  * Desarrollo de funcionalidades en app AsesorAzteca con arquitectura MVC
+  * Implementación de SDK para interacción de lector de huellas, reconocimiento facial y comunicación con el iPad mediante vistas web
+  * Coordinación de despliegue de aplicaciones AcertumBank y AsesorAzteca mediante Mobile Device Management y Apple Configurator 2
+  "
