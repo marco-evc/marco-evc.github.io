@@ -2,7 +2,11 @@
   role: Sr. iOS Developer
   time: Abril 2021 - Present
   company: Globant, México
-  details: |+ I´m developing the Transfer new versión V4 \nI started the Petro7 development \nI developed the Claro Pay (Grupo Carso) this app is available in Appstore productions. \nResponsabilities:\n-Take on new task to develop\n-Release app to TestFlight\n-Estimate new features\n-Review the code\n-Resolve Bugs\n-Refactor code\n-Keep the code clean
+  details: | Trabajando para AutoDesk y su aplicación Plangrid con las siguientes responsabilidades:
+  * Desarrollo de componentes de UI con UIKit
+  * Solución de incidencias y mantenimiento de aplicación bajo arquitectura FLUX
+  * Implementación de componentes de UI mediantes UIKit y SwiftUI
+  * Desarrollo de aplicación Alloy Components con MVVM y Combine, la cual se usa para probar los componentes de UI
 - experience:
   role: Semi Sr. iOS Developer
   time: Abril 2018 - Abril 2021
