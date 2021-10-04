@@ -3,27 +3,27 @@
   time: Abril 2021 - Present
   company: Globant, México
   details: |
-  Trabajando para AutoDesk y su aplicación Plangrid con las siguientes responsabilidades:
-   - Desarrollo de componentes de UI con UIKit
-   - Solución de incidencias y mantenimiento de aplicación bajo arquitectura FLUX
-   - Implementación de componentes de UI mediantes UIKit y SwiftUI
-   - Desarrollo de aplicación Alloy Components con MVVM y Combine, la cual se usa para probar los componentes de UI
+    Trabajando para AutoDesk y su aplicación Plangrid con las siguientes responsabilidades:
+     - Desarrollo de componentes de UI con UIKit
+    - Solución de incidencias y mantenimiento de aplicación bajo arquitectura FLUX
+    - Implementación de componentes de UI mediantes UIKit y SwiftUI
+    - Desarrollo de aplicación Alloy Components con MVVM y Combine, la cual se usa para probar los componentes de UI
 - experience:
   role: Semi Sr. iOS Developer
   time: Abril 2018 - Abril 2021
   company: Globant, México
   details: |
-  Trabajando para Citibanamex en su aplicación móvil, creando las siguientes funcionalidades:
-  - Dashboard:  Se refactorizó el corazón de la aplicación a arquitectura VIPER y se añadieron pruebas unitarias.
-  - Detalle de Cuenta: Se refactorizó a VIPER y se agregó la funcionalidad más importante para el banco (Transacciones en tiempo real).
-  - Implementación Insights SDK: Se integró un framework para analisis de gastos, el cual fue coordinado con el proveedor en Israel y Estados Unidos.
-  - Pagos Diferidos: Se implementó desde cero bajó la arquitectura VIPER, siendo esta la funcionalidad más rentable para el banco, al tener una proyección de 25 millones de USD al año.
+    Trabajando para Citibanamex en su aplicación móvil, creando las siguientes funcionalidades:
+    - Dashboard:  Se refactorizó el corazón de la aplicación a arquitectura VIPER y se añadieron pruebas unitarias.
+    - Detalle de Cuenta: Se refactorizó a VIPER y se agregó la funcionalidad más importante para el banco (Transacciones en tiempo real).
+    - Implementación Insights SDK: Se integró un framework para analisis de gastos, el cual fue coordinado con el proveedor en Israel y Estados Unidos.
+    - Pagos Diferidos: Se implementó desde cero bajó la arquitectura VIPER, siendo esta la funcionalidad más rentable para el banco, al tener una proyección de 25 millones de USD al año.
 - experience:
   role: Jr. iOS Developer
   time: Enero 2018 - Marzo 2018
   company: Grupo Salinas, Ciudad de México
   details: |
-   - Mantenimiento y solución de bugs en aplicación AcertumBank para iPad
-   - Desarrollo de funcionalidades en app AsesorAzteca con arquitectura MVC
-   - Implementación de SDK para interacción de lector de huellas, reconocimiento facial y comunicación con el iPad mediante vistas web
-   - Coordinación de despliegue de aplicaciones AcertumBank y AsesorAzteca mediante Mobile Device Management y Apple Configurator 2
+    - Mantenimiento y solución de bugs en aplicación AcertumBank para iPad
+    - Desarrollo de funcionalidades en app AsesorAzteca con arquitectura MVC
+    - Implementación de SDK para interacción de lector de huellas, reconocimiento facial y comunicación con el iPad mediante vistas web
+    - Coordinación de despliegue de aplicaciones AcertumBank y AsesorAzteca mediante Mobile Device Management y Apple Configurator 2
