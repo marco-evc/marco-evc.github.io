@@ -1,0 +1,30 @@
+# Site Settings
+title: ResumeDPC
+url: 'http://dpalomaresc.github.io/'
+#baseurl: '/resumedpc' #change it according to your repository name
+
+
+#Profile information
+name: Diego Palomares
+tagline: iOS Developer
+pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: "I'm Information Technologies Engenieer with 5 years of experience as iOS developer.
+skilled at write code, design and maintain iOS aplications with language swift and Objective-C.
+strong comunication, interpersonal  and teamwork skills"
+
+#sidebar links
+email: vazquezmarco3@gmail.com
+phone: 5529721793
+linkedin: diego-palomares-8a7b19124
+github: dpalomaresc
+#Update all the sections by editing the files inside _data folder.
+
+# Tracker
+analytics: UA-83979019-1
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development

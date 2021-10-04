@@ -1,0 +1,27 @@
+- skill:
+  name: Swift
+  level: 90%
+- skill:
+  name: SwiftUI
+  level: 80%
+- skill:
+  name: Objective-C
+  level: 50%
+  - skill:
+  name: JavaScript
+  level: 40%
+- skill:
+  name: Kotlin
+  level: 40%
+- skill:
+  name: Compose
+  level: 20%
+- skill:
+  name: MVC, MVP, VIPER and FLUX
+  level: 90%
+- skill:
+  name: GIT
+  level: 90%
+- skill:
+  name: SCRUM
+  level: 90%
