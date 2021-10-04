@@ -14,10 +14,10 @@
   company: Globant, México
   details: |
     Trabajando para Citibanamex en su aplicación móvil, creando las siguientes funcionalidades:
-    - Dashboard:  Se refactorizó el corazón de la aplicación a arquitectura VIPER y se añadieron pruebas unitarias.
-    - Detalle de Cuenta: Se refactorizó a VIPER y se agregó la funcionalidad más importante para el banco (Transacciones en tiempo real).
-    - Implementación Insights SDK: Se integró un framework para analisis de gastos, el cual fue coordinado con el proveedor en Israel y Estados Unidos.
-    - Pagos Diferidos: Se implementó desde cero bajó la arquitectura VIPER, siendo esta la funcionalidad más rentable para el banco, al tener una proyección de 25 millones de USD al año.
+     Dashboard:  Se refactorizó el corazón de la aplicación a arquitectura VIPER y se añadieron pruebas unitarias.
+     Detalle de Cuenta: Se refactorizó a VIPER y se agregó la funcionalidad más importante para el banco (Transacciones en tiempo real).
+     Implementación Insights SDK: Se integró un framework para analisis de gastos, el cual fue coordinado con el proveedor en Israel y Estados Unidos.
+     Pagos Diferidos: Se implementó desde cero bajó la arquitectura VIPER, siendo esta la funcionalidad más rentable para el banco, al tener una proyección de 25 millones de USD al año.
 - experience:
   role: Jr. iOS Developer
   time: Enero 2018 - Marzo 2018
